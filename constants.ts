@@ -1,6 +1,6 @@
 
 export const imageAssets = {
-  hero: 'https://i.imgur.com/dGLoA4e.jpeg',
+  hero: 'hero.png',
   worthlessLeads: 'https://i.imgur.com/vHqB5tC.jpeg',
   adminHeadache: 'https://i.imgur.com/UpxpZJc.jpeg',
   raceToBottom: 'https://i.imgur.com/1m6Qz7T.jpeg',
