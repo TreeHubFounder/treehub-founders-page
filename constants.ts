@@ -1,15 +1,15 @@
 
 export const imageAssets = {
-  hero: 'hero.png',
-  worthlessLeads: 'https://i.imgur.com/vHqB5tC.jpeg',
-  adminHeadache: 'https://i.imgur.com/UpxpZJc.jpeg',
-  raceToBottom: 'https://i.imgur.com/1m6Qz7T.jpeg',
-  subcontractorGamble: 'https://i.imgur.com/YpA4yqL.jpeg',
-  highValueJobs: 'https://i.imgur.com/1eTndqW.jpeg',
-  oneApp: 'https://i.imgur.com/8YgARUt.jpeg',
-  verified: 'https://i.imgur.com/R8R8Q6y.jpeg',
-  network: 'https://i.imgur.com/wNqyqJc.jpeg',
-  founder: 'https://i.imgur.com/J4r4F3P.jpeg',
+  hero: 'https://drive.google.com/uc?export=view&id=16_o_Gu5Ong8AUuvlgkDk0AgVS_YuSU35',
+  worthlessLeads: 'https://drive.google.com/uc?export=view&id=15XUNlRWjNO0uF2DIcgu5_i6DZGiwYw3n',
+  adminHeadache: 'https://drive.google.com/uc?export=view&id=1Stj4wJSf38JZqvmWEH7UXDY5yIP3dGwu',
+  raceToBottom: 'https://drive.google.com/uc?export=view&id=1Pul9wAPyAFLj-zeoJtvPy48rCcp9rgLc',
+  subcontractorGamble: 'https://drive.google.com/uc?export=view&id=1k-SuoWfNg5Hxagyl4qnieGGywZWOjH7O',
+  highValueJobs: 'https://drive.google.com/uc?export=view&id=1_H3lgBZZFgwnakB03N-XHf9o9nMm3_pN',
+  oneApp: 'https://drive.google.com/uc?export=view&id=1783eaM3uFPKezCQYxj3Lt8XGtzScboZe',
+  verified: 'https://drive.google.com/uc?export=view&id=1bVX2arwDilQQlAnyuTtuk-RV3iBCCkrQ',
+  network: 'https://drive.google.com/uc?export=view&id=175cLXnvKhD7d99lIvM-N_AYo7xgAsRsW',
+  founder: 'https://i.imgur.com/J4r4F3P.jpeg', // unchanged as you didn't provide a new link for founder
 };
 
 const pageContentData = {
